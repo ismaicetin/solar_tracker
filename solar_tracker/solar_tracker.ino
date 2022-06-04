@@ -17,10 +17,7 @@ int ldrld = A2; //LDR down left //left
 int ldrrd = A1; //ldr down rigt//right
 
 
-
-int hassasiyet = 100;    // select the input pin for the potentiometer
-
-
+ 
 
 
 //Use pin 8-11 to IN1-IN4
