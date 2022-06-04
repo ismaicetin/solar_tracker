@@ -18,9 +18,7 @@ int ldrrt = A3; //LDR top rigt// bottom
 int ldrld = A2; //LDR down left //left
 int ldrrd = A1; //ldr down rigt//right
 
-
-
-
+ 
 
 //Use pin 8-11 to IN1-IN4
 
